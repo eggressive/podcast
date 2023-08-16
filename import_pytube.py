@@ -1,5 +1,5 @@
-#from pathlib import Path
-#import shutil
+"""Imports the pytube module to allow downloading YouTube videos."""
+
 import pytube
 
 # Download video
